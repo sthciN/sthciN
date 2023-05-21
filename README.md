@@ -1,12 +1,25 @@
-<h1 align="center">Hi, folks! 👋</h1>
+<h1 align="center">Hi, folks! 
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+    </picture>
+</h1>
 
 <p align="center">
-    <b>Welcome to my page!<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/lottie.json" alt="welcome!"></b>
+    <b>Welcome to my page!
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+    </picture>
+    </b>
     <br><br>
     <i>
         I'm Ati,<br>
         Currently working as a software engineer with a focus on data science,<br>
-        Check out at my repos!<br>
+        Take few minutes and check out at my repos! <picture>
+            <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp">
+            <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32">
+        </picture><br>
         I'm also learning big data, MLOps, and bunch of cool stuff in AI.
     </i>
     <br>
