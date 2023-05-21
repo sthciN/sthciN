@@ -16,7 +16,7 @@
     <i>
         I'm Ati,<br>
         Currently working as a software engineer with a focus on data science,<br>
-        Take few minutes and check out at my repos! <picture>
+        Take a few minute and check out my repos! <picture>
             <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp">
             <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32">
         </picture><br>
