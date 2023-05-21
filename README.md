@@ -15,10 +15,10 @@
     </i>
     <br>
     <a href="https://www.linkedin.com/in/atefeh-barzideh">
-        <img src="https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.hackerrank.com/sthcin">
-        <img src="https://img.shields.io/badge/Hackerrank-red?style=flat-square&logo=hackerrank" alt="Hackerrank">
+        <img src="https://img.shields.io/badge/Hackerrank-red?style=flat-square&logo=hackerrank&logoColor=white" alt="Hackerrank">
     </a>
 </p>
 
