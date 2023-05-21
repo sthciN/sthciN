@@ -23,14 +23,14 @@
 </p>
 
 ### I talk in these languages
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthcin)
-[![JavaScript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript)](https://github.com/sthciN)
-[![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)](https://github.com/sthciN)
-[![Matlab](https://img.shields.io/badge/Matlab-blue?style=for-the-badge&logo=matlab)](https://github.com/sthciN)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthcin)
+[![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sthciN)
+[![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://github.com/sthciN)
+[![Matlab](https://img.shields.io/badge/Matlab-black?style=for-the-badge&logo=matlab)](https://github.com/sthciN)
 
 ### And pro in
-[![Bash](https://img.shields.io/badge/bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sthciN)
-[![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/sthciN)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sthciN)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/sthciN)
 
 ### Data science and ML tools
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/sthciN)
