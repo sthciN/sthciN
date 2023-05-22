@@ -23,7 +23,7 @@
 </p>
 
 ### I talk in these languages
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/sthcin)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/sthcin)
 [![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sthciN)
 [![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r)](https://github.com/sthciN)
 [![Matlab](https://img.shields.io/badge/Matlab-black?style=for-the-badge&logo=matlab)](https://github.com/sthciN)
