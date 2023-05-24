@@ -10,7 +10,7 @@
     <i>
         I'm Ati,<br>
         Currently working as a software engineer with a focus on data science,<br>
-        Take a few minute and check out my repos! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"><br>
+        Take a few minutes and check out my repos! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"><br>
         I'm also learning big data, MLOps, and bunch of cool stuff in AI.
     </i>
     <br>
