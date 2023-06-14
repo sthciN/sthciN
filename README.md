@@ -49,6 +49,8 @@
 [![FLASK](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)](https://github.com/sthciN)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/sthciN)
 [![FAST API](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)](https://github.com/sthciN)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/sthciN)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/sthciN)
 [![ReactJs](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sthciN)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/sthciN)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/sthciN)
