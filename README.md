@@ -40,9 +40,9 @@
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/sthciN)
 [![Apache Spark](https://img.shields.io/badge/Apache_Spark-black?style=for-the-badge&logo=apache-spark)](https://github.com/sthciN)
 [![Google Dataflow](https://img.shields.io/badge/Dataflow-black?style=for-the-badge&logo=googlecloud)](https://github.com/sthciN)
-[![Google BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlecloud)](https://github.com/sthciN)
 [![IBM Watson](https://img.shields.io/badge/IBM_Watson-black?style=for-the-badge&logo=ibm)](https://github.com/sthciN)
 [![IBM AI Pipeline Tool Elyra](https://img.shields.io/badge/Elyra-black?style=for-the-badge&logo=ibm)](https://github.com/sthciN)
+[![Google BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlecloud)](https://github.com/sthciN)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/sthciN)
 
 ### Technologies & Frameworks
