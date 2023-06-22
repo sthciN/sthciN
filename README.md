@@ -58,7 +58,6 @@
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sthciN)
-[![MacOs](https://img.shields.io/badge/Macos-black?style=for-the-badge&logo=macos)](https://github.com/sthciN)
 
 <details>
 <p align="center">
