@@ -21,7 +21,7 @@
     </a>
 </p>
 
-### I talk in these languages
+### I speak in these languages
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/sthcin)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescipt)](https://github.com/sthciN)
 [![JavaScript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sthciN)
