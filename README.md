@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! 
+<h1 align="center">Hi, everyone! 
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </h1>
 
