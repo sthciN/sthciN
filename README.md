@@ -47,6 +47,19 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/sthciN)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/sthciN)
 
+### Data
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/sthciN)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/sthciN)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/sthciN)
+[![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/sthciN)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)](https://github.com/sthciN)
+[![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-black?style=for-the-badge&logo=apache-airflow)](https://github.com/sthciN)
+[![Google Dataflow](https://img.shields.io/badge/Dataflow-black?style=for-the-badge&logo=googlecloud)](https://github.com/sthciN)
+[![IBM Watson](https://img.shields.io/badge/IBM_Watson-black?style=for-the-badge&logo=ibm)](https://github.com/sthciN)
+[![IBM AI Pipeline Tool Elyra](https://img.shields.io/badge/Elyra-black?style=for-the-badge&logo=ibm)](https://github.com/sthciN)
+[![Google BigQuery](https://img.shields.io/badge/BigQuery-black?style=for-the-badge&logo=googlecloud)](https://github.com/sthciN)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib)](https://github.com/sthciN)
+
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sthciN)
 [![MacOS](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=macOs)](https://github.com/sthciN)
