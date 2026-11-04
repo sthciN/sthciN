@@ -13,12 +13,6 @@
         Take a few minutes and check out my repos! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"><br>
     </i>
     <br>
-    <a href="https://www.linkedin.com/in/atefeh-barzideh">
-        <img src="https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.hackerrank.com/sthcin">
-        <img src="https://img.shields.io/badge/Hackerrank-red?style=flat-square&logo=hackerrank&logoColor=white" alt="Hackerrank">
-    </a>
 </p>
 
 ### I speak in these languages
